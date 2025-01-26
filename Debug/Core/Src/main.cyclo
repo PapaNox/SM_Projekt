@@ -1,0 +1,10 @@
+../Core/Src/main.c:72:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:88:6:HAL_TIM_PeriodElapsedCallback	7
+../Core/Src/main.c:128:6:updateAdcVoltage	2
+../Core/Src/main.c:138:7:calculateAverage	2
+../Core/Src/main.c:151:7:ADC_REG2VOLTAGE	1
+../Core/Src/main.c:155:7:convertADC_to_temp	1
+../Core/Src/main.c:163:7:calculatePID	2
+../Core/Src/main.c:179:5:main	3
+../Core/Src/main.c:252:6:SystemClock_Config	3
+../Core/Src/main.c:305:6:Error_Handler	1
